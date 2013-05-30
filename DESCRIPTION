@@ -1,0 +1,9 @@
+Package: testEnvironment
+Type: Package
+Title: test custom environments
+Version: 0.0.1
+Date: 2013-05-29
+Author: Robert M Flight <rflight79@gmail.com>
+Maintainer: Robert M Flight <rflight79@gmail.com>
+Description: Learning about using and manipulating custom environments to store package variables in my own packages.
+License: CC0
